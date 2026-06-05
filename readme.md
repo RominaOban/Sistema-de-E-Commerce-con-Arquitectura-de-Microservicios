@@ -1,5 +1,3 @@
-# Jorge Vera
-
 # Dockerización de Microservicios
 
 ## Introducción
